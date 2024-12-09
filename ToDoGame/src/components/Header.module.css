@@ -1,0 +1,8 @@
+.header {
+  background-color: yellowgreen;
+  text-align: center;
+  height: 50px;
+  padding: 20px 0 0 0;
+  font-size: 30px;
+  border-bottom: 1px solid black;
+}
